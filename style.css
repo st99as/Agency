@@ -41,7 +41,7 @@ height: 2px;
     text-align: center;
 }
 .header_title{
-    margin-top: 250px;
+    margin-top: 200px;
     font-family: 'Oswald';
 font-style: normal;
 font-weight: 500;
@@ -60,7 +60,7 @@ mix-blend-mode: normal;
 opacity: 0.8;   
 }
 .header{
-    background-image: url(background_image_header.jpg);
+    background-image: url(background_header.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
